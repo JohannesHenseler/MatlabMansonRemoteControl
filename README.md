@@ -10,4 +10,6 @@ Furthermore, mind the correct configuration of the Manson power supply.
 For more information, check out:
 https://www.manson.com.hk/product/hcs-3100/
 
-## License 
+## Application
+
+To use the interface in Matlab, you can simply call the functions pythonSetVoltage and pythonSetCurrent and pass in the desired values.
